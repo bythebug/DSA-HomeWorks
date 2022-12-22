@@ -1,6 +1,7 @@
 # Data Structures and Algorithms
 
-![Screenshot](/maxresdefault.jpg)
+![Screenshot](/maxresdefault.png)
+
 Resource Followed: https://www.youtube.com/watch?v=WQoB2z67hvY&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA
 
 Lectures: Started on 15th December 2022.
