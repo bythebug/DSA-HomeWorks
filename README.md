@@ -1,6 +1,6 @@
 # Data Structures and Algorithms
 
-![image](maxresdefault.png)
+![image](https://github.com/bythebug/DSA-HomeWorks/blob/24fc7852f8b32a8147d5c79ec1a9403f4bd7211c/maxresdefault.png)
 
 Resource Followed: https://www.youtube.com/watch?v=WQoB2z67hvY&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA
 
